@@ -6,5 +6,5 @@ Install
 
 1.Clone project <br/>
 2.cd javis<br/>
-3.run : pip install -r requirement.txt <br/>
+3.run venv <br/>
 4.run python main.py
